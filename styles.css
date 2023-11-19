@@ -1,0 +1,58 @@
+.container{
+    width: 560px;
+    height: 360px;
+    outline-style: solid;
+    outline-color: brown;
+    padding: 5px;
+    margin: 20px auto;
+}
+.box{
+    width: 500px;
+    height: 20px;
+    margin: 20px auto;
+    padding: 20px;
+    outline-style: solid;
+    outline-color: brown;
+}
+
+b{
+    font-size: 40px;
+}
+
+.one > p{
+    outline-style: solid;
+    outline-color: brown;
+    width: 500px;
+    height: 60px;
+    padding: 20px;
+    margin: 20px auto;
+}
+ul{
+    outline-style: solid;
+    outline-color: brown;
+    width: 500px;
+    height: 30px;
+    padding: 20px;
+    margin: 20px auto;
+}
+ li{
+    outline-style: solid;
+    outline-color: brown;
+    text-align: left;
+}
+.buttons{
+    padding: 10px;
+    margin: 10px auto;
+}
+input{
+    outline-style: solid;
+    outline-color: brown;
+    margin: 2px auto;
+    padding: 5px;
+}
+a{
+    outline-style: solid;
+    outline-color: brown;
+    margin: 2px auto;
+    padding: 5px;
+}
